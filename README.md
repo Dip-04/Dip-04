@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diptish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I have strong foundation  in programming languages and passion for innovation </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dip-04" alt="dip-04" /></a> </p>
 
