@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diptish gohane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptish gohane" height="30" width="40" /></a>
-<a href="https://fb.com/diptish gohane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diptish gohane" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/diptish-gohane-263129233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptish-gohane" height="30" width="40" /></a>
+<a href="https://fb.com/diptishgohane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="diptish gohane" height="30" width="40" /></a>
 <a href="https://instagram.com/diptish_gohane04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diptish_gohane04" height="30" width="40" /></a>
 </p>
 
